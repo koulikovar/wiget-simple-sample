@@ -1,0 +1,15 @@
+// MARK: - Errors
+
+"widget.error.unauthorized" = "Sign in within the App";
+"widget.error.something.went.wrong" = "Something went wrong";
+
+// MARK: Titles
+
+"widget.today.title" = "today";
+
+// MARK: - Placeholder habits
+
+"widget.placeholder.habit.reading.books" = "Reading books";
+"widget.placeholder.habit.meditation" = "Meditation";
+"widget.placeholder.habit.drinking.water" = "Drinking more water";
+"widget.placeholder.habit.morning.routine" = "Morning exercise routine";

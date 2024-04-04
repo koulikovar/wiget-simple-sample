@@ -1,0 +1,15 @@
+// MARK: - Errors
+
+"widget.error.unauthorized" = "Авторизуйтесь в приложении";
+"widget.error.something.went.wrong" = "Что-то пошло не так";
+
+// MARK: Titles
+
+"widget.today.title" = "сегодня";
+
+// MARK: - Placeholder habits
+
+"widget.placeholder.habit.reading.books" = "Чтение книг";
+"widget.placeholder.habit.meditation" = "Медитация";
+"widget.placeholder.habit.drinking.water" = "Пить больше воды";
+"widget.placeholder.habit.morning.routine" = "Утренняя зарядка";
